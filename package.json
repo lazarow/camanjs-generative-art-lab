@@ -1,0 +1,18 @@
+{
+  "name": "@lazarow/camanjs-generative-art-lab",
+  "version": "0.0.1",
+  "description": "A generative art framework for fun build upon Caman.JS",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazarow/camanjs-generative-art-lab.git"
+  },
+  "author": "Arek Nowakowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lazarow/camanjs-generative-art-lab/issues"
+  },
+  "homepage": "https://github.com/lazarow/camanjs-generative-art-lab#readme",
+  "dependencies": {
+    "caman": "git+https://gitlab.com/modernframe/caman.git"
+  }
+}
